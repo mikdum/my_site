@@ -1,3 +1,24 @@
-body {
-color: aqua;
+.trtryit {
+    display: block;
+
+}
+body{
+
+    /* width: 460px; */
+}
+.links{
+    display: block;
+}
+img{
+
+    width: 460px;
+}
+.sub_button{
+    margin: 5px;
+    width: 385px;
+}
+.what_do_you_think{
+    margin: 5px;
+    width: 460px;
+    height: 60px;
 }
